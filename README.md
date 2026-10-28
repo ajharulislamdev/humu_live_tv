@@ -6,11 +6,9 @@ favorites, channel logos, and HLS playback.
 
 ## Screenshots
 
-![Humu Live TV home screen](docs/screenshots/home-screen.png)
-
-| Channel playback | Unavailable stream |
-| --- | --- |
-| ![My TV Bangladesh playing in the channel player](docs/screenshots/channel-player-bangladesh.png) | ![Channel player showing an unavailable stream](docs/screenshots/unavailable-channel.png) |
+| Home screen | Channel playback | Unavailable stream |
+| --- | --- | --- |
+| <img src="docs/screenshots/home-screen.png" alt="Humu Live TV home screen" width="180"> | <img src="docs/screenshots/channel-player-bangladesh.png" alt="My TV Bangladesh playing in the channel player" width="180"> | <img src="docs/screenshots/unavailable-channel.png" alt="Channel player showing an unavailable stream" width="180"> |
 
 The unavailable-stream screenshot is an earlier capture; the current player
 shows an **OFFLINE** status and a retry action when playback fails.
